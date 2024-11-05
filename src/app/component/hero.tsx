@@ -21,7 +21,7 @@ export default function Hero() {
 
         <div className="w-full lg:w-1/2 flex justify-center items-center mt-6 lg:mt-0">
           <Image
-            src={"/image/HeroImg.jpg"} 
+            src={"/image/Hero.png"}
             alt="hero image"
             width={442} 
             height={611} 
